@@ -18,4 +18,4 @@ jobs:
     - name: Check quality with ESLint
       run: yarn lint
     - name: Check against test
-    - run: yarn test
+      run: yarn test
