@@ -1,5 +1,5 @@
 {
-  "name": "automated-testing",
+  "name": "continuous-integration",
   "version": "1.0.0",
   "license": "CC-BY-NC-ND-4.0",
   "devDependencies": {
